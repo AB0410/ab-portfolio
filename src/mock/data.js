@@ -27,7 +27,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: '',
+    img: 'cohort_analysis.jpg',
     title: 'Cohort Analysis',
     info: 'To get a better understanding of the company performance, My employer gave me the responsiblity of calculating the retetion rate by using the invoice data. I found a better way of seeing the result and compare it at the same time. I wrote a code which outputs a heatmap showing the cohort analysis.',
     info2: '',
@@ -36,7 +36,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: '',
+    img: 'segments.jpg',
     title: 'Customer Segments',
     info: 'As a part of the marketing my task was to help the team make better business strategies. So to do so I decided to create a customer segmentation based on their values to us as a customer. This helped to make specific strategies as per needs.',
     info2: '',
@@ -45,7 +45,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: '',
+    img: 'reccomendation.jpg',
     title: 'Recommendation Logic',
     info: 'My employer had to impove the user experience and for which a recommendation system was proposed. I was tasked with creating the logic of getting the recommendations. I achieved this by analysing the basket and suggest items which were bought together.',
     info2: '',
