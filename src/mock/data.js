@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'My_pic.jpg',
   paragraphOne: 'HI, I am an aspiring data analyst currently pursuing my post graduation in data science. Even though I am a Mathematics major I have taught myself Data Analysis, Machine Learning, Data visualization and a few programming languages like Python, Java, C, C+. I did all this because I like challenges and becoming a data analyst is my biggest challenge yet.',
   paragraphTwo: 'I am very serious about my work so when I do not find an answer I make it my only goal to find an answer and this attitude has helped me learn a lot by myself. So with the right guidance and environment I can accomplish much more, all I need is a chance to show my skills and worth.',
   resume: '', // if no resume, the button will not show up
